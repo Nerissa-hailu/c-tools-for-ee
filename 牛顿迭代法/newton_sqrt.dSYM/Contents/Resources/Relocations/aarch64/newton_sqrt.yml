@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/yinhailu/Desktop/牛顿迭代法/newton_sqrt"
+relocations:     []
+...
